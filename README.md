@@ -1,5 +1,7 @@
 
 [Strona Github Pages](https://sksprk.github.io)
+
+[Generacja obrazów z wykorzystaniem AI](https://github.com/sksprk/Generative-AI)
 # 👋😎
 - I sleep
 - I drink 
