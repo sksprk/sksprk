@@ -2,6 +2,7 @@
 [Strona Github Pages](https://sksprk.github.io)
 
 [Generacja obrazów z wykorzystaniem AI](https://github.com/sksprk/Generative-AI)
+oraz [LINK](https://paperswithcode.com/paper/multimodal-image-synthesis-and-editing-a) do artykułu opisującego generację z wykorzystaniem AI
 # 👋😎
 - I sleep
 - I drink 
